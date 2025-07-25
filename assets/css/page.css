@@ -298,3 +298,23 @@ article img {
     text-align: center;
   }
 }
+
+/* Listas das paginas estaticas */
+.wp-block-list {
+  list-style-position: inside !important;
+  padding-left: 1.5rem !important;
+  font-size: 1.2rem !important;
+  line-height: 2.0rem !important;
+  margin-top: 1.5rem !important;
+  margin-bottom: 2.5rem !important;
+  color: #414141 !important;
+}
+
+.wp-block-list a {
+  color: #f2637e !important;
+  text-decoration: underline !important;
+}
+
+.wp-block-list a:hover {
+  color: #6cc08c !important;
+}
